@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: ratnac37/sami:5
+        image: ratnac37/angulardevapp:6
         ports: 
         - containerPort: 80 
 --- 
