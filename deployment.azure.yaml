@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: ratnac37/koppulamounika:1
+        image: ratnac37/koppulamounika thimmarusu:2
         ports: 
         - containerPort: 80 
 --- 
